@@ -1,3 +1,3 @@
 # ReduxCore
 
-A description of this package.
+Redux core files
